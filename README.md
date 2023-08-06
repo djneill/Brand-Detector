@@ -1,3 +1,21 @@
+<p align="center">
+<img src="public/images/Brand-Detector.gif" alt="gif of operating app" />
+</p>
+
+<h1 align="center">Brand Detector</h1>
+
+<p>Take a look at it here 👉 </p>
+
+<h2 align="center">Tech Used</h2> 
+<p align="center"> EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, Passport.js, Cloudinary, Microsoft Azure Cognitive Services </p>
+
+<h2 align="center">Goals and Accomplishments</h2>
+This is a fun app that can detect the brand of a product from an image. Upload your image, it will analyze the image for any similar brand marking and then return the result showing the percentage of confidence in the discovered brand. 
+
+<h2 align="center">Optimizations</h2>
+
+Optimized this to fit all screen sizes as best as possible. The goal was for the user to have a fluid experience on all their devices. Designed with mobile-first in mind.
+
 # Install
 
 `npm install`
@@ -13,8 +31,6 @@
   - CLOUD_API_SECRET = `your cloudinary api secret`
   - MS_COMPUTER_VISION_SUBSCRIPTION_KEY = `your Microsoft Subscription Key`
   - MS_COMPUTER_VISION_ENDPOINT = `your Microsoft Computer Vision Endpoint`
-  - MS_FACE_ENDPOINT = `your Microsoft Face Endpoint`
-  - MS_FACE_SUB_KEY = `your Microsoft Face Key`
 
 ---
 

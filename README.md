@@ -4,10 +4,10 @@
 
 <h1 align="center">Brand Detector</h1>
 
-<p>Take a look at it here 👉 </p>
+<p>Take a look at it here 👉 https://branddetector.onrender.com/</p>
 
 <h2 align="center">Tech Used</h2> 
-<p align="center"> EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, Passport.js, Cloudinary, Microsoft Azure Cognitive Services </p>
+<p align="center"> EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, Cloudinary, Microsoft Azure Cognitive Services </p>
 
 <h2 align="center">Goals and Accomplishments</h2>
 This is a fun app that can detect the brand of a product from an image. Upload your image, it will analyze the image for any similar brand marking and then return the result showing the percentage of confidence in the discovered brand. 
